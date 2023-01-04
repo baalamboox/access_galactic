@@ -1,0 +1,21 @@
+body {
+    background-color: gainsboro ;
+}
+.container-introduction {
+    background-color: #D25955;
+}
+.introduction {
+    top: -30rem;
+}
+.container-forms {
+    background-color: #1B283F;
+}
+.form-control {
+    background-color: transparent;
+}
+.btn {
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
